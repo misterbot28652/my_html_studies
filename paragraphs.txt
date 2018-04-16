@@ -1,4 +1,4 @@
-<!DOCCTYPE>
+<!DOCTYPE html>
 <html>
 	<head>
 		<title> paragrapH </title>
